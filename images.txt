@@ -1,4 +1,5 @@
-busybox:latest
+getsentry/relay
+#busybox:latest
 #debian:bookworm-slim
 #nginx
 #支持私库
