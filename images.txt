@@ -1,4 +1,5 @@
-getsentry/sentry:latest
+minio/minio:latest
+#getsentry/sentry:latest
 #sentry-self-hosted-local:latest
 #tianon/exim4:latest
 #memcached:1.6.26-alpine
