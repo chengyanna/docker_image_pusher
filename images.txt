@@ -1,4 +1,5 @@
-minio/minio:latest
+nacos/nacos-server:v2.5.0
+#minio/minio:latest
 #getsentry/sentry:latest
 #sentry-self-hosted-local:latest
 #tianon/exim4:latest
